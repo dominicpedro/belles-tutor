@@ -1,0 +1,10 @@
+# Photos folders (large binary files)
+**/photos/
+
+# OS files
+.DS_Store
+*/.DS_Store
+
+# Claude session files
+.claude-mem/
+.claude/settings.local.json

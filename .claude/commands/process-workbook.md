@@ -1,0 +1,1 @@
+../.shared/.claude/commands/process-workbook.md
