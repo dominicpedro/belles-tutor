@@ -20,9 +20,10 @@ belles-tutor/
 │   ├── commands/                 ← symlinks to tutor skills
 │   └── rules/                    ← symlinks to tutor rules + local math.md
 ├── sync-claude.sh                ← Refresh symlinks from submodule
+├── uploads/                      ← All scanned/photographed source pages
+│   └── <subject>/                ← Organized by subject (lowercase)
 ├── <Subject>/                    ← One folder per subject
 │   ├── CLAUDE.md                 ← Subject-specific context
-│   ├── photos/                   ← Scanned source pages
 │   ├── summaries/                ← Per-page structured summaries
 │   │   ├── patterns-and-issues.md ← Running error tracker
 │   │   └── demarcation.md        ← Test/exam scope
@@ -55,7 +56,7 @@ belles-tutor/
 
 1. Create a folder: `<Subject>/`
 2. Add a `CLAUDE.md` inside it with curriculum context
-3. Create `photos/` and `summaries/` subdirectories
+3. Create `uploads/<subject>/` for source material and `<Subject>/summaries/` for output
 4. Use `/process-workbook` to batch-process material
 
 ## Submodule Updates

@@ -1,5 +1,5 @@
-# Photos folders (large binary files)
-**/photos/
+# Uploads folder (large binary files — photos, scans, etc.)
+uploads/
 
 # OS files
 .DS_Store
