@@ -46,11 +46,21 @@ belles-tutor/
 | Pause | `/pause` | Save session state for later |
 | Continue | `/continue` | Resume a paused session |
 
+## Learning Style
+
+Belle's thinking patterns and the "named method" approach are documented in `learning-style.md`. **Read this before any session.** It covers:
+
+- How she thinks (non-linear, head-math, working memory bottleneck)
+- The named method system (trigger names, written + typed formats)
+- Session rules (always prompt for working, use shorthand, stop at fatigue)
+- Current named methods and their quick cards
+
 ## Getting Started
 
-1. Read `patterns-and-issues.md` in the relevant subject to understand current strengths/weaknesses
-2. Use `/study-session` for guided practice or `/spot-test` for quick drills
-3. After each session, the tutor updates `patterns-and-issues.md` automatically
+1. Read `learning-style.md` to understand how Belle learns
+2. Read `patterns-and-issues.md` in the relevant subject to understand current strengths/weaknesses
+3. Use `/study-session` for guided practice or `/spot-test` for quick drills
+4. After each session, the tutor updates `patterns-and-issues.md` automatically
 
 ## Adding a New Subject
 

@@ -22,33 +22,41 @@ Normal time uses the clock twice a day — 7:45 could be breakfast OR bedtime. W
 
 ---
 
-### Elapsed Time (How long between two times?)
+### Bunny Hops -- Belle's Time Method
 
-**Always draw a timeline. Jump in chunks:**
+**For ANY time question (elapsed time, time difference, find start time) use Bunny Hops.**
 
+**The rule: A bunny always leaves footprints. DRAW the line. WRITE your hops.**
+
+**Steps:**
+1. DRAW the line (write start and end)
+2. HOP to the next nice number (next whole minute or hour)
+3. HOP the big chunk (full hours or minutes)
+4. HOP the leftovers (remaining minutes or seconds)
+5. ADD your hops
+
+**On paper (test):**
 ```
-Start --[min to next hour]--> Full hour --[count hours]--> Last full hour --[leftover min]--> End
+5:40 ---[20]---> 6:00 ---[1h]---> 7:00 ---[15]---> 7:15
+                 20 + 1h + 15 = 1h 35min
 ```
 
-Add the chunks together. Done.
+**Typed (study sessions):**
 
----
+```text
+5:40 >[20m]=> 6:00 >[1h]=> 7:00 >[15m]=> 7:15 = 1h35m
+```
 
-### Time Subtraction
+Shorthand rules:
 
-**Borrow 60, not 10!**
+- `>[20m]=>` is one hop (arrow in, size of hop, arrow out)
+- `m` = minutes, `h` = hours
+- `=` only at the end, for the total
+- It looks like the written version — just typed
 
-| Need more seconds? | Borrow from minutes → get **60 seconds** |
-|---|---|
-| Need more minutes? | Borrow from hours → get **60 minutes** |
-
----
-
-### Finding Start vs End Time
-
-| Have start + duration? | **Add** → end time |
-|---|---|
-| Have end + duration? | **Subtract** → start time |
+**For "find the start time" questions:**
+Flip it! Don't go backwards. Ask: "What time + duration = end time?"
+Then Bunny Hop forward from your guess to check.
 
 ---
 
@@ -62,6 +70,6 @@ Add the chunks together. Done.
 
 ### Three Rules
 
-1. **60 not 10** — time borrows in 60s
+1. **Bunny Hops** — draw the line, write your hops
 2. **PM = +12** — always, every time
-3. **Draw the timeline** — no shortcuts
+3. **No head math** — if it's not written down, it didn't happen

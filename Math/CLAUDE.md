@@ -51,3 +51,8 @@
 - Timelines are the most effective scaffold for time problems
 - Money contexts (Rands) make fractions and decimals concrete
 - Can perform transformations physically but needs vocabulary practice
+- **Does NOT understand borrowing in normal subtraction** — do not teach time subtraction as column subtraction with base-60 borrowing
+- **"Count forward" reframe** — for time subtraction/difference problems, start at the smaller time and count forward to the bigger time using the timeline method. This leverages her strongest skill.
+- **Does all working in her head** — never writes steps down. Thinking is non-linear (jumps between start, end, middle). Works for simple problems but overloads working memory on complex ones. Must be prompted to write working.
+- **Named method: "Bunny Hops"** — trigger phrase: "Bunny Hops — draw the line, write your hops." Core rule: a bunny always leaves footprints. Forces her to write each hop on the timeline. Written version for tests, typed shorthand for study sessions (see `notes/time_quickcard.md`).
+- **Typed shorthand:** `5:40 >[20m]=> 6:00 >[1h]=> 7:00 >[15m]=> 7:15 = 1h35m` — mirrors the written arrow format. Prevents her from narrating answers in prose which wastes time and loses structure.

@@ -2,7 +2,7 @@
 
 **Purpose:** Comprehensive reference for Belle's strengths, weaknesses, and error patterns across all processed pages of NumberSense 17.
 
-**Last updated:** 2026-03-01 (Pages 1-19, 22-27, 30, 38-41, 48-56 complete)
+**Last updated:** 2026-03-07 (Pages 1-19, 22-27, 30, 38-41, 48-56 complete; study sessions Days 1-3, Day 5 quiz, and Day 6 session incorporated)
 
 ---
 
@@ -124,6 +124,13 @@
 - Q2: Asked "What is the same and what is different about how you moved the shape for the last two patterns?" -- Belle wrote "You just put it into another position" instead of using the correct terms (reflection, rotation, translation)
 **Pattern:** Belle can physically perform transformations (her drawings received tick marks and "YAY" from the teacher), but she does not use the correct mathematical vocabulary when describing what she did. She needs to consistently use the terms "translated" (slid), "reflected" (flipped), and "rotated" (turned) in written explanations.
 
+### Working Style (observed Day 6)
+
+- **All working done in her head** — never writes steps down unless prompted
+- **Non-linear thinking** — jumps between start, end, and middle of a problem rather than working sequentially
+- **Impact:** Simple problems fit in working memory and come out correct; complex problems (3+ steps) overload working memory and produce errors
+- **Mitigation:** Named method "Bunny Hops" with written and typed shorthand formats that force step-by-step working (see `notes/time_quickcard.md`)
+
 ---
 
 ## Strong Areas
@@ -241,24 +248,30 @@
 ### Priority 1 -- CRITICAL (High error density, conceptual gaps, test-relevant)
 
 1. **Elapsed time and time interval calculations** (Pages 51, 52, 53)
-   - Cannot reliably calculate time differences across hour boundaries, am/pm transitions, or midnight
-   - Does not understand borrowing in time subtraction (base-60 vs base-10)
-   - Multi-step time word problems (find start time, find duration, combine intervals) are consistently wrong
+   - ~~Cannot reliably calculate time differences across hour boundaries, am/pm transitions, or midnight~~
+   - Does not understand borrowing in time subtraction (base-60 vs base-10) — **UNTESTED in study sessions**
+   - Multi-step time word problems (find start time, find duration, combine intervals) — **UNTESTED in study sessions**
    - **~18 errors across 3 pages** -- highest error density in the entire workbook
    - **Test relevance:** Time/Measurement confirmed in demarcation
+   - **Study session update (Day 2-3):** Belle now uses the timeline method (jump to next hour, count full hours, add remaining minutes) **automatically and unprompted**. Scored 7/7 on Day 2 and 3/3 on Day 3 quiz, including AM/PM crossings and midnight crossings. **Status: GREEN for basic elapsed time.**
+   - **Day 5 quiz update:** Forward elapsed time confirmed GREEN (10:50 AM to 1:15 PM correct). Forward time + duration addition correct (4:30 PM + 1h50min = 18:20, including 24-hour conversion). **However, time subtraction with borrowing CONFIRMED RED:** reversed subtraction in 4min10sec - 2min35sec (wrote 2min25sec instead of 1min35sec), and did not attempt subtraction in 2min15sec - 1min40sec (wrote Zara's time instead of the difference). Backward time calculation also wrong: 20:15 - 45min gave 19:50 instead of 19:30.
+   - **Day 6 session update:** Column subtraction with borrowing is NOT viable — Belle does not understand borrowing in normal maths, so base-60 borrowing cannot build on it. **Breakthrough: reframed time subtraction as "count forward from smaller to bigger"** using her existing timeline method. Scored 2/2 on time difference problems (4min10sec - 2min35sec = 1min35sec, 5:40pm to 7:15pm = 1h35min). "Find start time" problem attempted but incorrect (8:15pm - 1h50min gave 6:45 instead of 6:25) — Belle was tired and could not explain reasoning. **Status: AMBER for time differences (forward-counting method works). RED for backward/start-time calculations (needs more practice).**
 
 2. **24-hour time conversion** (Page 49)
-   - Forgets to add 12 for PM times when converting to 24-hour format
-   - Confuses "half past" and "quarter to" phrasing
+   - ~~Forgets to add 12 for PM times when converting to 24-hour format~~
+   - ~~Confuses "half past" and "quarter to" phrasing~~
    - **~5 errors on 1 page**
    - **Test relevance:** Analogue and 24-hour time confirmed in demarcation
+   - **Study session update (Day 1):** Scored 5/5 on 24-hour time conversions. The "+12 for PM" rule is solid. Understands the 12:00 pm edge case. Minor gap: sometimes omits AM/PM label when converting back to 12-hour time. Given mnemonic "PM = Plus." **Status: GREEN.**
 
 3. **Division-based word problems (large numbers)** (Page 30)
-   - Cannot connect multiples/skip-counting to division problems
-   - Answers for airline ticket division are wildly off (wrote 18, 20, 22 instead of 6, 8, 100)
-   - Confused multiplication by 7 vs 10 in savings problem
+   - ~~Cannot connect multiples/skip-counting to division problems~~
+   - ~~Answers for airline ticket division are wildly off (wrote 18, 20, 22 instead of 6, 8, 100)~~
+   - Confused multiplication by 7 vs 10 in savings problem — **UNTESTED in study sessions**
    - **~5 errors on 1 page**
    - **Test relevance:** Problem solving with operations confirmed in demarcation
+   - **Study session update (Day 3):** Scored 2/2 on division word problems using a doubling/scaling strategy (find a small pair, scale up to total). Correctly solved R12 000 ÷ R1 500 = 8 and R2 000 ÷ R250 = 8.
+   - **Day 5 quiz update:** Scored 3/3 on division: R480 ÷ 4 = R120 (correct), R50 ÷ R7 = 7 stickers (correct, but remainder wrong — said R6 instead of R1), R2 100 ÷ R350 = 6 (correct). Division expression written correctly this time ("2100 divided by 350" not reversed). **Status: GREEN — strategy works for clean and larger numbers. Minor weakness: not checking remainders (multiply back and subtract). No longer AMBER.**
 
 ### Priority 2 -- HIGH (Recurring concept, foundational skill)
 
@@ -294,6 +307,7 @@
     - Can perform transformations correctly but does not use terms "translate," "reflect," "rotate" in written descriptions
     - 1 weak answer, but vocabulary is explicitly tested
     - **Test relevance:** Transformations confirmed in demarcation
+    - **Day 5 quiz update:** Correctly answered "translation" unprompted when given a description of sliding a shape. **Status: GREEN for vocabulary recall.**
 
 11. **Two-unknowns word problems** (Page 2)
     - The method (subtract difference, divide by 2, add difference back) is not intuitive for her yet

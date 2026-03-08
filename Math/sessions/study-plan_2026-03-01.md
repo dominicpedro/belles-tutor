@@ -33,23 +33,30 @@ Time: 15 min
 Tip: This is a temperature check, not a cram session. Just note what's improved.
 
 DAY 6 — Friday 6 March
-Study session on whatever was still weak after Day 5.
+MISSED. Shifted remaining days forward (see revised plan below).
+
+--- REVISED PLAN (from Saturday 7 March) ---
+
+Day 5 quiz confirmed: forward elapsed time GREEN, division GREEN, transformation vocab GREEN.
+Remaining RED areas: time subtraction with borrowing (base-60) and backward time calculations.
+
+DAY 6 (revised) — Saturday 7 March
+Study session on time subtraction with borrowing and backward time calculations.
+Focus: "Borrow 60, not 10" rule. Finding start times by subtracting duration.
+Time: 15-20 min
+Tip: Use the quick card as a reference. Concrete examples first (minutes and seconds), then full problems.
+
+DAY 7 (revised) — Sunday 8 March
+Methods drill -- bed in the named methods with written/typed shorthand.
+Every answer must use the method format. No head math. Working = marks.
+Focus: Bunny Hops (x2 time difference, x1 find start time), PM = Plus (x1), Double Up (x1).
+Time: 15-20 min
+Tip: The goal is not "right answer" -- it's "right process." If she gets it right but shows no working, she redoes it.
+
+DAY 8+9 (revised) — Monday 9 March (night before)
+Confidence round on strong areas (addition, patterns, data handling, transformations).
+Throw in one Bunny Hops and one Double Up to reinforce, but keep it light.
 Time: 15 min
-Tip: If everything felt okay, do transformation vocabulary instead (translate = slide, reflect = flip, rotate = turn).
-
-DAY 7 — Saturday 7 March
-Full practice test — the dress rehearsal.
-Time: 20 min
-Tip: Don't mark it in front of her. Let her finish, then review together.
-
-DAY 8 — Sunday 8 March
-Review the practice test mistakes only. Quick study session on gaps.
-Time: 15 min
-Tip: "You got most of that right. Let's just clean up these last few."
-
-DAY 9 — Monday 9 March (night before)
-Confidence round — easy quiz on things she's GOOD at (addition, patterns, data handling).
-Time: 10 min
 Tip: End on "You've got this." No new material. No cramming.
 
 TUESDAY 10 MARCH — TEST DAY
