@@ -2,7 +2,7 @@
 
 **Purpose:** Comprehensive reference for Belle's strengths, weaknesses, and error patterns across all processed pages of NumberSense 17.
 
-**Last updated:** 2026-03-07 (Pages 1-19, 22-27, 30, 38-41, 48-56 complete; study sessions Days 1-3, Day 5 quiz, and Day 6 session incorporated)
+**Last updated:** 2026-03-08 (Pages 1-19, 22-27, 30, 38-41, 48-56 complete; study sessions Days 1-3, Day 5 quiz, Day 6, and Day 7 methods drill incorporated)
 
 ---
 
@@ -124,12 +124,13 @@
 - Q2: Asked "What is the same and what is different about how you moved the shape for the last two patterns?" -- Belle wrote "You just put it into another position" instead of using the correct terms (reflection, rotation, translation)
 **Pattern:** Belle can physically perform transformations (her drawings received tick marks and "YAY" from the teacher), but she does not use the correct mathematical vocabulary when describing what she did. She needs to consistently use the terms "translated" (slid), "reflected" (flipped), and "rotated" (turned) in written explanations.
 
-### Working Style (observed Day 6)
+### Working Style (observed Days 6-7)
 
 - **All working done in her head** — never writes steps down unless prompted
 - **Non-linear thinking** — jumps between start, end, and middle of a problem rather than working sequentially
 - **Impact:** Simple problems fit in working memory and come out correct; complex problems (3+ steps) overload working memory and produce errors
-- **Mitigation:** Named method "Bunny Hops" with written and typed shorthand formats that force step-by-step working (see `notes/time_quickcard.md`)
+- **Mitigation:** 4 named methods ("superpowers") with written and typed shorthand formats that force step-by-step working (see `notes/method_superpowers-summary.md`)
+- **Day 7 update:** Belle now writes working unprompted for Bunny Hops, Double Up, and PM = Plus. Round & Fix working is written but fix-step arithmetic slipped (525-3 = 523 initially, self-corrected to 522 with prompting). Method selection (knowing which method to use) is emerging but not automatic — needed a prompt to distinguish PM=Plus from Bunny Hops on a "how long" question.
 
 ---
 
