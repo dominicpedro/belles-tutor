@@ -1,7 +1,7 @@
 # STUDY PLAN — History Test (Monday 16 March 2026)
 
 **Topic:** Hunter-gatherers and herders (Units 1–4 & 6)
-**1 day remaining** | 15 min/session max | Sunday is the only study day
+**2 days remaining** | 15 min/session max | Split across Saturday + Sunday
 
 ---
 
@@ -37,9 +37,9 @@
 
 ---
 
-## Sunday 15 March
+## Saturday 14 March — Afternoon
 
-### Session 1 — Morning (15 min)
+### Session 2 — Quick Card + Vocab Spot Test (15 min)
 
 **What:** Review the quick card together, then spot test on RED topics
 **Tool:** Read quick card aloud together, then `/spot-test History "vocabulary and plants"`
@@ -56,7 +56,9 @@
 
 ---
 
-### Session 2 — Afternoon (15 min)
+## Sunday 15 March
+
+### Session 3 — Morning/Afternoon (15 min)
 
 **What:** Focus on rock art + coat of arms (the two topics she had zero knowledge on before tonight)
 **Tool:** `/spot-test History "rock art and coat of arms"`
@@ -73,14 +75,14 @@
 
 ---
 
-### Session 3 — Evening / Before Bed (10 min max)
+### Session 4 — Evening / Before Bed (10 min max)
 
 **What:** Confidence round — easy spot test mixing GREEN and RED topics
 **Tool:** `/spot-test History "full test prep"` (light mode)
 **Time:** 10 min
 
 **How to run it:**
-1. Mix easy wins with the morning's RED topics: "What's nomadic mean?" (GREEN) → "What's ethnography?" (RED) → "Name the four rock art colours" (GREEN) → "What plant stops hunger while hunting?" (RED)
+1. Mix easy wins with Saturday's RED topics: "What's nomadic mean?" (GREEN) → "What's ethnography?" (RED) → "Name the four rock art colours" (GREEN) → "What plant stops hunger while hunting?" (RED)
 2. End on something she definitely knows
 3. Done. No more studying after this.
 
@@ -103,17 +105,17 @@ No morning cramming. Breakfast, deep breath, go.
 ## TOPIC COVERAGE MAP
 
 ```
-Ethnography (RED):       Session 1 ──── Session 3 (check)
-Prey definition (RED):   Session 1 ──── Session 3 (check)
-Medicinal plants (RED):  Session 1 ──── Session 3 (check)
-Beetle poison (RED):     Session 1 ──── Session 3 (check)
-Five sources (RED):      Session 1 ──── Session 3 (check)
-Rock art details (RED):  Session 2 ──── Session 3 (check)
-Coat of arms (RED):      Session 2 ──── Session 3 (check)
-Linton Panel (RED):      Session 2 ──── Session 3 (check)
-Bow construction (AMBER): Session 2 (paragraph practice)
-Hunt paragraph (AMBER):   Session 2 (talk-through)
-Strong topics (GREEN):    Session 3 (confidence boosters)
+Ethnography (RED):       Sat S2 ──── Sun S4 (check)
+Prey definition (RED):   Sat S2 ──── Sun S4 (check)
+Medicinal plants (RED):  Sat S2 ──── Sun S4 (check)
+Beetle poison (RED):     Sat S2 ──── Sun S4 (check)
+Five sources (RED):      Sat S2 ──── Sun S4 (check)
+Rock art details (RED):  Sun S3 ──── Sun S4 (check)
+Coat of arms (RED):      Sun S3 ──── Sun S4 (check)
+Linton Panel (RED):      Sun S3 ──── Sun S4 (check)
+Bow construction (AMBER): Sun S3 (paragraph practice)
+Hunt paragraph (AMBER):   Sun S3 (talk-through)
+Strong topics (GREEN):    Sun S4 (confidence boosters)
 ```
 
 ---
