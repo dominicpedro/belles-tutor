@@ -1,1 +1,0 @@
-../.shared/.claude/commands/spot-test.md

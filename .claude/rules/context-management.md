@@ -1,1 +1,0 @@
-../.shared/.claude/rules/context-management.md

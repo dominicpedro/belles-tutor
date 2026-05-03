@@ -1,1 +1,0 @@
-../.shared/.claude/commands/study-plan.md

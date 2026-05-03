@@ -1,0 +1,4244 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Belle",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/CLAUDE.md",
+      "id": "belle",
+      "community": 1,
+      "norm_label": "belle"
+    },
+    {
+      "label": "Grade 5",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/CLAUDE.md",
+      "id": "grade_5",
+      "community": 1,
+      "norm_label": "grade 5"
+    },
+    {
+      "label": "South Africa",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/CLAUDE.md",
+      "id": "south_africa",
+      "community": 0,
+      "norm_label": "south africa"
+    },
+    {
+      "label": "CAPS Curriculum",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/CLAUDE.md",
+      "id": "caps_curriculum",
+      "community": 1,
+      "norm_label": "caps curriculum"
+    },
+    {
+      "label": "Agentic Tutor Framework",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/CLAUDE.md",
+      "id": "agentic_tutor",
+      "community": 1,
+      "norm_label": "agentic tutor framework"
+    },
+    {
+      "label": "NumberSense 17 Workbook",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/CLAUDE.md",
+      "id": "numbersense_17",
+      "community": 4,
+      "norm_label": "numbersense 17 workbook"
+    },
+    {
+      "label": "Mathematics",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/CLAUDE.md",
+      "id": "math_subject",
+      "community": 1,
+      "norm_label": "mathematics"
+    },
+    {
+      "label": "Named Method Approach",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "named_method_approach",
+      "community": 2,
+      "norm_label": "named method approach"
+    },
+    {
+      "label": "Bunny Hops Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_bunny-hops.md",
+      "id": "bunny_hops",
+      "community": 2,
+      "norm_label": "bunny hops method"
+    },
+    {
+      "label": "PM = Plus Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_pm-equals-plus.md",
+      "id": "pm_equals_plus",
+      "community": 2,
+      "norm_label": "pm = plus method"
+    },
+    {
+      "label": "Double Up Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_double-up.md",
+      "id": "double_up",
+      "community": 2,
+      "norm_label": "double up method"
+    },
+    {
+      "label": "Round and Fix Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_round-and-fix.md",
+      "id": "round_and_fix",
+      "community": 2,
+      "norm_label": "round and fix method"
+    },
+    {
+      "label": "Break It Up Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_break-it-up.md",
+      "id": "break_it_up",
+      "community": 2,
+      "norm_label": "break it up method"
+    },
+    {
+      "label": "Elapsed Time Topic",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/time_summary.md",
+      "id": "elapsed_time",
+      "community": 5,
+      "norm_label": "elapsed time topic"
+    },
+    {
+      "label": "24-Hour Time Conversion",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/time_quickcard.md",
+      "id": "time_24_hour",
+      "community": 2,
+      "norm_label": "24-hour time conversion"
+    },
+    {
+      "label": "Division Word Problems",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day3_2026-03-03.md",
+      "id": "division_word_problems",
+      "community": 2,
+      "norm_label": "division word problems"
+    },
+    {
+      "label": "Working Memory Bottleneck",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "working_memory_bottleneck",
+      "community": 1,
+      "norm_label": "working memory bottleneck"
+    },
+    {
+      "label": "Question Misreading Pattern",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "question_misreading",
+      "community": 1,
+      "norm_label": "question misreading pattern"
+    },
+    {
+      "label": "Non-Linear Thinking Style",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "non_linear_thinking",
+      "community": 1,
+      "norm_label": "non-linear thinking style"
+    },
+    {
+      "label": "Confidence Spiral Pattern",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "confidence_spiral",
+      "community": 1,
+      "norm_label": "confidence spiral pattern"
+    },
+    {
+      "label": "What Given Do Prompt",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "what_given_do",
+      "community": 1,
+      "norm_label": "what given do prompt"
+    },
+    {
+      "label": "Skip and Breathe Protocol",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "skip_and_breathe",
+      "community": 1,
+      "norm_label": "skip and breathe protocol"
+    },
+    {
+      "label": "Big Marks First Strategy",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "big_marks_first",
+      "community": 1,
+      "norm_label": "big marks first strategy"
+    },
+    {
+      "label": "Socratic Tutoring Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/claude-project-instructions.md",
+      "id": "socratic_method",
+      "community": 1,
+      "norm_label": "socratic tutoring method"
+    },
+    {
+      "label": "March 2026 Study Plan",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/study-plan_2026-03-01.md",
+      "id": "study_plan_march_2026",
+      "community": 2,
+      "norm_label": "march 2026 study plan"
+    },
+    {
+      "label": "Math Test 10 March 2026",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/study-plan_2026-03-01.md",
+      "id": "math_test_march_10",
+      "community": 2,
+      "norm_label": "math test 10 march 2026"
+    },
+    {
+      "label": "Day 1 Session - 24hr Time",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day1_2026-03-01.md",
+      "id": "day1_session",
+      "community": 2,
+      "norm_label": "day 1 session - 24hr time"
+    },
+    {
+      "label": "Day 2 Session - Elapsed Time",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day2_2026-03-02.md",
+      "id": "day2_session",
+      "community": 2,
+      "norm_label": "day 2 session - elapsed time"
+    },
+    {
+      "label": "Day 3 Session - Division Problems",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day3_2026-03-03.md",
+      "id": "day3_session",
+      "community": 2,
+      "norm_label": "day 3 session - division problems"
+    },
+    {
+      "label": "Day 6 Session - Time Subtraction",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day6_2026-03-07.md",
+      "id": "day6_session",
+      "community": 2,
+      "norm_label": "day 6 session - time subtraction"
+    },
+    {
+      "label": "Day 7 Session - Methods Drill",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day7_2026-03-08.md",
+      "id": "day7_session",
+      "community": 2,
+      "norm_label": "day 7 session - methods drill"
+    },
+    {
+      "label": "Day 8 Session - Confidence Round",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day8_2026-03-09.md",
+      "id": "day8_session",
+      "community": 2,
+      "norm_label": "day 8 session - confidence round"
+    },
+    {
+      "label": "Timeline Method",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day2_2026-03-02.md",
+      "id": "timeline_method",
+      "community": 2,
+      "norm_label": "timeline method"
+    },
+    {
+      "label": "Count Forward Approach",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/sessions/day6_2026-03-07.md",
+      "id": "count_forward_approach",
+      "community": 2,
+      "norm_label": "count forward approach"
+    },
+    {
+      "label": "Superpowers Framing",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/method_superpowers-summary.md",
+      "id": "superpowers_framing",
+      "community": 2,
+      "norm_label": "superpowers framing"
+    },
+    {
+      "label": "Fractions of an Hour",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/time_quickcard.md",
+      "id": "fractions_of_hour",
+      "community": 5,
+      "norm_label": "fractions of an hour"
+    },
+    {
+      "label": "Number and Pattern Strand",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "number_pattern_strand",
+      "community": 2,
+      "norm_label": "number and pattern strand"
+    },
+    {
+      "label": "Measurement Strand",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "measurement_strand",
+      "community": 5,
+      "norm_label": "measurement strand"
+    },
+    {
+      "label": "Space and Shape Strand",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "space_shape_strand",
+      "community": 4,
+      "norm_label": "space and shape strand"
+    },
+    {
+      "label": "Data Handling Strand",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "data_handling_strand",
+      "community": 4,
+      "norm_label": "data handling strand"
+    },
+    {
+      "label": "Addition Strategies",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "addition_strategies",
+      "community": 2,
+      "norm_label": "addition strategies"
+    },
+    {
+      "label": "Transformations Topic",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "transformations",
+      "community": 4,
+      "norm_label": "transformations topic"
+    },
+    {
+      "label": "Mode in Statistics",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/numbersense-17-summary.md",
+      "id": "mode_statistics",
+      "community": 4,
+      "norm_label": "mode in statistics"
+    },
+    {
+      "label": "Base-60 Borrowing Concept",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/notes/time_summary.md",
+      "id": "base_60_borrowing",
+      "community": 5,
+      "norm_label": "base-60 borrowing concept"
+    },
+    {
+      "label": "Typed Shorthand Notation",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "typed_shorthand",
+      "community": 2,
+      "norm_label": "typed shorthand notation"
+    },
+    {
+      "label": "Written Working Requirement",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/learning-style.md",
+      "id": "written_working",
+      "community": 1,
+      "norm_label": "written working requirement"
+    },
+    {
+      "label": "Grade 5 Mathematics",
+      "file_type": "subject",
+      "source_file": "multiple",
+      "id": "grade_5_math",
+      "community": 4,
+      "norm_label": "grade 5 mathematics"
+    },
+    {
+      "label": "Number and Pattern Strand",
+      "file_type": "topic",
+      "source_file": "multiple",
+      "id": "number_and_pattern",
+      "community": 3,
+      "norm_label": "number and pattern strand"
+    },
+    {
+      "label": "Measurement Strand",
+      "file_type": "topic",
+      "source_file": "multiple",
+      "id": "measurement",
+      "community": 5,
+      "norm_label": "measurement strand"
+    },
+    {
+      "label": "Space and Shape Strand",
+      "file_type": "topic",
+      "source_file": "multiple",
+      "id": "space_and_shape",
+      "community": 9,
+      "norm_label": "space and shape strand"
+    },
+    {
+      "label": "Data Handling Strand",
+      "file_type": "topic",
+      "source_file": "multiple",
+      "id": "data_handling",
+      "community": 6,
+      "norm_label": "data handling strand"
+    },
+    {
+      "label": "Rounding Numbers",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_01.md",
+      "id": "rounding_numbers",
+      "community": 1,
+      "norm_label": "rounding numbers"
+    },
+    {
+      "label": "Ratio Tables",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_15.md",
+      "id": "ratio_tables",
+      "community": 3,
+      "norm_label": "ratio tables"
+    },
+    {
+      "label": "Decimal Fractions",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_15.md",
+      "id": "decimal_fractions",
+      "community": 3,
+      "norm_label": "decimal fractions"
+    },
+    {
+      "label": "Matchstick Shape Patterns",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_04.md",
+      "id": "matchstick_patterns",
+      "community": 3,
+      "norm_label": "matchstick shape patterns"
+    },
+    {
+      "label": "Flow Diagrams",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_05.md",
+      "id": "flow_diagrams",
+      "community": 3,
+      "norm_label": "flow diagrams"
+    },
+    {
+      "label": "Adding Decimal Numbers",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_11.md",
+      "id": "adding_decimals",
+      "community": 3,
+      "norm_label": "adding decimal numbers"
+    },
+    {
+      "label": "Breaking Up Strategy",
+      "file_type": "strategy",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_11.md",
+      "id": "breaking_up_strategy",
+      "community": 3,
+      "norm_label": "breaking up strategy"
+    },
+    {
+      "label": "Rounding and Compensating Strategy",
+      "file_type": "strategy",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_13.md",
+      "id": "rounding_compensating",
+      "community": 3,
+      "norm_label": "rounding and compensating strategy"
+    },
+    {
+      "label": "Pairing Strategy",
+      "file_type": "strategy",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_23.md",
+      "id": "pairing_strategy",
+      "community": 3,
+      "norm_label": "pairing strategy"
+    },
+    {
+      "label": "Fractions of a Metre and Kilometre",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_24.md",
+      "id": "fractions_of_metre",
+      "community": 3,
+      "norm_label": "fractions of a metre and kilometre"
+    },
+    {
+      "label": "Picture Frame Tile Patterns",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_25.md",
+      "id": "picture_frame_patterns",
+      "community": 3,
+      "norm_label": "picture frame tile patterns"
+    },
+    {
+      "label": "Equivalent Fractions",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_27.md",
+      "id": "equivalent_fractions",
+      "community": 3,
+      "norm_label": "equivalent fractions"
+    },
+    {
+      "label": "Comparing Fractions",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_27.md",
+      "id": "comparing_fractions",
+      "community": 3,
+      "norm_label": "comparing fractions"
+    },
+    {
+      "label": "Multiples and nth Multiple",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_30.md",
+      "id": "multiples",
+      "community": 3,
+      "norm_label": "multiples and nth multiple"
+    },
+    {
+      "label": "Money Word Problems",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_10.md",
+      "id": "money_problems",
+      "community": 3,
+      "norm_label": "money word problems"
+    },
+    {
+      "label": "Fractions of Whole Numbers",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_10.md",
+      "id": "fractions_of_whole",
+      "community": 3,
+      "norm_label": "fractions of whole numbers"
+    },
+    {
+      "label": "Reflections (Flipping Shapes)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_40.md",
+      "id": "reflections",
+      "community": 9,
+      "norm_label": "reflections (flipping shapes)"
+    },
+    {
+      "label": "Rotations (Turning Shapes)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_41.md",
+      "id": "rotations",
+      "community": 9,
+      "norm_label": "rotations (turning shapes)"
+    },
+    {
+      "label": "Time Conversions",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_50.md",
+      "id": "time_conversions",
+      "community": 5,
+      "norm_label": "time conversions"
+    },
+    {
+      "label": "Fractions of a Minute",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_51.md",
+      "id": "fractions_of_minute",
+      "community": 5,
+      "norm_label": "fractions of a minute"
+    },
+    {
+      "label": "Bar Graphs",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_54.md",
+      "id": "bar_graphs",
+      "community": 6,
+      "norm_label": "bar graphs"
+    },
+    {
+      "label": "Frequency Tables",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_54.md",
+      "id": "frequency_tables",
+      "community": 6,
+      "norm_label": "frequency tables"
+    },
+    {
+      "label": "Mode (Statistical Measure)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_54.md",
+      "id": "mode",
+      "community": 6,
+      "norm_label": "mode (statistical measure)"
+    },
+    {
+      "label": "Dot Plots",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_55.md",
+      "id": "dot_plots",
+      "community": 6,
+      "norm_label": "dot plots"
+    },
+    {
+      "label": "Tally Marks",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_54.md",
+      "id": "tally_marks",
+      "community": 6,
+      "norm_label": "tally marks"
+    },
+    {
+      "label": "Ratio and Proportion",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_03.md",
+      "id": "ratio_proportion",
+      "community": 3,
+      "norm_label": "ratio and proportion"
+    },
+    {
+      "label": "Decomposition Strategy for Costs",
+      "file_type": "strategy",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_03.md",
+      "id": "decomposition_strategy",
+      "community": 3,
+      "norm_label": "decomposition strategy for costs"
+    },
+    {
+      "label": "Complementary Pairs to 100",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_17.md",
+      "id": "pairs_to_100",
+      "community": 3,
+      "norm_label": "complementary pairs to 100"
+    },
+    {
+      "label": "Line of Symmetry",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_40.md",
+      "id": "line_of_symmetry",
+      "community": 9,
+      "norm_label": "line of symmetry"
+    },
+    {
+      "label": "Factors of 12",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_27.md",
+      "id": "factors_of_12",
+      "community": 3,
+      "norm_label": "factors of 12"
+    },
+    {
+      "label": "Error: Rounding Large Numbers",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_01.md",
+      "id": "error_rounding_large",
+      "community": 1,
+      "norm_label": "error: rounding large numbers"
+    },
+    {
+      "label": "Error: Ratio Calculations",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_03.md",
+      "id": "error_ratio_calculation",
+      "community": 3,
+      "norm_label": "error: ratio calculations"
+    },
+    {
+      "label": "Error: Division by 1500",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_30.md",
+      "id": "error_division_by_1500",
+      "community": 3,
+      "norm_label": "error: division by 1500"
+    },
+    {
+      "label": "Error: Elapsed Time Calculations",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_52.md",
+      "id": "error_elapsed_time",
+      "community": 5,
+      "norm_label": "error: elapsed time calculations"
+    },
+    {
+      "label": "Error: Adding Time Intervals",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_51.md",
+      "id": "error_time_intervals",
+      "community": 5,
+      "norm_label": "error: adding time intervals"
+    },
+    {
+      "label": "Error: Borrowing in Time Subtraction",
+      "file_type": "weakness",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_52.md",
+      "id": "error_borrowing_time",
+      "community": 5,
+      "norm_label": "error: borrowing in time subtraction"
+    },
+    {
+      "label": "Strength: Skip Counting Patterns",
+      "file_type": "strength",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_30.md",
+      "id": "strength_skip_counting",
+      "community": 3,
+      "norm_label": "strength: skip counting patterns"
+    },
+    {
+      "label": "Strength: Basic Rounding to 10 and 100",
+      "file_type": "strength",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_01.md",
+      "id": "strength_basic_rounding",
+      "community": 1,
+      "norm_label": "strength: basic rounding to 10 and 100"
+    },
+    {
+      "label": "Strength: Reflections on Dot Grids",
+      "file_type": "strength",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_40.md",
+      "id": "strength_reflections",
+      "community": 9,
+      "norm_label": "strength: reflections on dot grids"
+    },
+    {
+      "label": "Mathematics Grade 5",
+      "file_type": "entity",
+      "source_file": "multiple",
+      "id": "math_grade_5",
+      "community": 1,
+      "norm_label": "mathematics grade 5"
+    },
+    {
+      "label": "Page 7 - Ratio Tables & Fractions of Money",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_07.md",
+      "id": "page_07",
+      "community": 1,
+      "norm_label": "page 7 - ratio tables & fractions of money"
+    },
+    {
+      "label": "Page 56 - Mode from Dot Plots",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_56.md",
+      "id": "page_56",
+      "community": 4,
+      "norm_label": "page 56 - mode from dot plots"
+    },
+    {
+      "label": "Page 22 - Fractions on Number Line & Money",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_22.md",
+      "id": "page_22",
+      "community": 4,
+      "norm_label": "page 22 - fractions on number line & money"
+    },
+    {
+      "label": "Page 16 - Multiples",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_16.md",
+      "id": "page_16",
+      "community": 3,
+      "norm_label": "page 16 - multiples"
+    },
+    {
+      "label": "Page 6 - Breaking Up Decimal Addition",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_06.md",
+      "id": "page_06",
+      "community": 2,
+      "norm_label": "page 6 - breaking up decimal addition"
+    },
+    {
+      "label": "Page 12 - Sharing, Fractions & Patterns",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_12.md",
+      "id": "page_12",
+      "community": 4,
+      "norm_label": "page 12 - sharing, fractions & patterns"
+    },
+    {
+      "label": "Page 26 - Adding by Making Pairs",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_26.md",
+      "id": "page_26",
+      "community": 2,
+      "norm_label": "page 26 - adding by making pairs"
+    },
+    {
+      "label": "Page 53 - Elapsed Time & Duration",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_53.md",
+      "id": "page_53",
+      "community": 5,
+      "norm_label": "page 53 - elapsed time & duration"
+    },
+    {
+      "label": "Page 2 - Decimal Fractions",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_02.md",
+      "id": "page_02",
+      "community": 3,
+      "norm_label": "page 2 - decimal fractions"
+    },
+    {
+      "label": "Page 19 - Fractions of an Hour & Calendar",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_19.md",
+      "id": "page_19",
+      "community": 5,
+      "norm_label": "page 19 - fractions of an hour & calendar"
+    },
+    {
+      "label": "Page 48 - Lines of Symmetry & Diagonals",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_48.md",
+      "id": "page_48",
+      "community": 4,
+      "norm_label": "page 48 - lines of symmetry & diagonals"
+    },
+    {
+      "label": "Page 9 - Equal Sharing/Division",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_09.md",
+      "id": "page_09",
+      "community": 4,
+      "norm_label": "page 9 - equal sharing/division"
+    },
+    {
+      "label": "Page 39 - Transformations",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_39.md",
+      "id": "page_39",
+      "community": 4,
+      "norm_label": "page 39 - transformations"
+    },
+    {
+      "label": "Page 38 - Rotation, Reflection, Translation",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_38.md",
+      "id": "page_38",
+      "community": 4,
+      "norm_label": "page 38 - rotation, reflection, translation"
+    },
+    {
+      "label": "Page 18 - Fractions of Shapes & Patterns",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_18.md",
+      "id": "page_18",
+      "community": 4,
+      "norm_label": "page 18 - fractions of shapes & patterns"
+    },
+    {
+      "label": "Page 49 - Time Conversion (12h/24h)",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_49.md",
+      "id": "page_49",
+      "community": 5,
+      "norm_label": "page 49 - time conversion (12h/24h)"
+    },
+    {
+      "label": "Page 8 - Addition Strategies",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_08.md",
+      "id": "page_08",
+      "community": 2,
+      "norm_label": "page 8 - addition strategies"
+    },
+    {
+      "label": "Test Demarcation - 10 March",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/demarcation.md",
+      "id": "demarcation",
+      "community": 4,
+      "norm_label": "test demarcation - 10 march"
+    },
+    {
+      "label": "Patterns and Issues Tracker",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "patterns_and_issues",
+      "community": 1,
+      "norm_label": "patterns and issues tracker"
+    },
+    {
+      "label": "History Subject Context",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/CLAUDE.md",
+      "id": "history_claude",
+      "community": 1,
+      "norm_label": "history subject context"
+    },
+    {
+      "label": "History Study Plan - 14 March 2026",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/sessions/study-plan_2026-03-14.md",
+      "id": "history_study_plan",
+      "community": 0,
+      "norm_label": "history study plan - 14 march 2026"
+    },
+    {
+      "label": "Hunter-Gatherers Quick Card",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "hunter_gatherers_quickcard",
+      "community": 0,
+      "norm_label": "hunter-gatherers quick card"
+    },
+    {
+      "label": "Fractions of Money",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_07.md",
+      "id": "fractions_of_money",
+      "community": 4,
+      "norm_label": "fractions of money"
+    },
+    {
+      "label": "Fractions on Number Line",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_22.md",
+      "id": "fractions_on_number_line",
+      "community": 4,
+      "norm_label": "fractions on number line"
+    },
+    {
+      "label": "Decimal Addition (Breaking Up)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_06.md",
+      "id": "decimal_addition",
+      "community": 2,
+      "norm_label": "decimal addition (breaking up)"
+    },
+    {
+      "label": "Sharing in Ratios (2:1)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_12.md",
+      "id": "sharing_ratios",
+      "community": 4,
+      "norm_label": "sharing in ratios (2:1)"
+    },
+    {
+      "label": "Addition by Making Pairs",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_26.md",
+      "id": "addition_pairing",
+      "community": 2,
+      "norm_label": "addition by making pairs"
+    },
+    {
+      "label": "Line Symmetry",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_48.md",
+      "id": "line_symmetry",
+      "community": 4,
+      "norm_label": "line symmetry"
+    },
+    {
+      "label": "Equal Sharing/Division",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_09.md",
+      "id": "equal_sharing",
+      "community": 4,
+      "norm_label": "equal sharing/division"
+    },
+    {
+      "label": "Translation (Sliding)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_38.md",
+      "id": "translation",
+      "community": 4,
+      "norm_label": "translation (sliding)"
+    },
+    {
+      "label": "Reflection (Flipping)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_38.md",
+      "id": "reflection",
+      "community": 4,
+      "norm_label": "reflection (flipping)"
+    },
+    {
+      "label": "Rotation (Turning)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_38.md",
+      "id": "rotation",
+      "community": 4,
+      "norm_label": "rotation (turning)"
+    },
+    {
+      "label": "Fractions of Shapes",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_18.md",
+      "id": "fractions_of_shapes",
+      "community": 4,
+      "norm_label": "fractions of shapes"
+    },
+    {
+      "label": "Growing Number Patterns",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_18.md",
+      "id": "growing_patterns",
+      "community": 4,
+      "norm_label": "growing number patterns"
+    },
+    {
+      "label": "12h to 24h Time Conversion",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/page_49.md",
+      "id": "time_conversion_24h",
+      "community": 5,
+      "norm_label": "12h to 24h time conversion"
+    },
+    {
+      "label": "Hunter-Gatherers and Herders",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "hunter_gatherers",
+      "community": 0,
+      "norm_label": "hunter-gatherers and herders"
+    },
+    {
+      "label": "San People",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "san_people",
+      "community": 0,
+      "norm_label": "san people"
+    },
+    {
+      "label": "Ethnography",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "ethnography",
+      "community": 0,
+      "norm_label": "ethnography"
+    },
+    {
+      "label": "Rock Art",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "rock_art",
+      "community": 0,
+      "norm_label": "rock art"
+    },
+    {
+      "label": "South African Coat of Arms",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "coat_of_arms_sa",
+      "community": 0,
+      "norm_label": "south african coat of arms"
+    },
+    {
+      "label": "Linton Panel",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "linton_panel",
+      "community": 0,
+      "norm_label": "linton panel"
+    },
+    {
+      "label": "Medicinal Plants (Buchu, Hoodia)",
+      "file_type": "concept",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/notes/hunter-gatherers_quickcard.md",
+      "id": "medicinal_plants",
+      "community": 0,
+      "norm_label": "medicinal plants (buchu, hoodia)"
+    },
+    {
+      "label": "History Grade 5",
+      "file_type": "entity",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/CLAUDE.md",
+      "id": "history_grade_5",
+      "community": 1,
+      "norm_label": "history grade 5"
+    },
+    {
+      "label": "Error: Rounding 4-digit Numbers",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_rounding_4digit",
+      "community": 1,
+      "norm_label": "error: rounding 4-digit numbers"
+    },
+    {
+      "label": "Error: Decimal Counting Across Boundaries",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_decimal_boundary",
+      "community": 3,
+      "norm_label": "error: decimal counting across boundaries"
+    },
+    {
+      "label": "Error: Ratio/Proportion Beyond Tables",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_ratio_proportion",
+      "community": 1,
+      "norm_label": "error: ratio/proportion beyond tables"
+    },
+    {
+      "label": "Error: Cost Tables for Large Quantities",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_cost_tables_large",
+      "community": 1,
+      "norm_label": "error: cost tables for large quantities"
+    },
+    {
+      "label": "Error: Fractions of Amounts (Division)",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_fractions_division",
+      "community": 1,
+      "norm_label": "error: fractions of amounts (division)"
+    },
+    {
+      "label": "Error: 24-Hour Time Conversion",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_24h_conversion",
+      "community": 5,
+      "norm_label": "error: 24-hour time conversion"
+    },
+    {
+      "label": "Error: Division Word Problems",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_division_word_problems",
+      "community": 1,
+      "norm_label": "error: division word problems"
+    },
+    {
+      "label": "Error: Time Subtraction/Borrowing",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_time_subtraction",
+      "community": 1,
+      "norm_label": "error: time subtraction/borrowing"
+    },
+    {
+      "label": "Error: Arithmetic in Pairing Addition",
+      "file_type": "error_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "error_addition_pairing",
+      "community": 2,
+      "norm_label": "error: arithmetic in pairing addition"
+    },
+    {
+      "label": "Strength: Decimal Addition",
+      "file_type": "strength_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "strength_decimal_addition",
+      "community": 1,
+      "norm_label": "strength: decimal addition"
+    },
+    {
+      "label": "Strength: Fractions of Money",
+      "file_type": "strength_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "strength_fractions_money",
+      "community": 1,
+      "norm_label": "strength: fractions of money"
+    },
+    {
+      "label": "Strength: Transformations",
+      "file_type": "strength_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "strength_transformations",
+      "community": 1,
+      "norm_label": "strength: transformations"
+    },
+    {
+      "label": "Strength: Data Handling",
+      "file_type": "strength_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "strength_data_handling",
+      "community": 1,
+      "norm_label": "strength: data handling"
+    },
+    {
+      "label": "Working Style: Does Not Write Steps",
+      "file_type": "learning_pattern",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/patterns-and-issues.md",
+      "id": "working_style_no_written",
+      "community": 5,
+      "norm_label": "working style: does not write steps"
+    },
+    {
+      "label": "Math Test - 10 March",
+      "file_type": "event",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/math/summaries/demarcation.md",
+      "id": "test_march_10",
+      "community": 4,
+      "norm_label": "math test - 10 march"
+    },
+    {
+      "label": "History Test - 16 March",
+      "file_type": "event",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/sessions/study-plan_2026-03-14.md",
+      "id": "test_march_16",
+      "community": 0,
+      "norm_label": "history test - 16 march"
+    },
+    {
+      "label": "Khoikhoi People",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_90.md",
+      "id": "khoikhoi_people",
+      "community": 0,
+      "norm_label": "khoikhoi people"
+    },
+    {
+      "label": "Stone Age",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_93.md",
+      "id": "stone_age",
+      "community": 0,
+      "norm_label": "stone age"
+    },
+    {
+      "label": "Nomadic Lifestyle",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_95.md",
+      "id": "nomadic_lifestyle",
+      "community": 0,
+      "norm_label": "nomadic lifestyle"
+    },
+    {
+      "label": "Archaeologist",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_101.md",
+      "id": "archaeologist",
+      "community": 0,
+      "norm_label": "archaeologist"
+    },
+    {
+      "label": "South African Coat of Arms",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_103.md",
+      "id": "south_african_coat_of_arms",
+      "community": 7,
+      "norm_label": "south african coat of arms"
+    },
+    {
+      "label": "Bow and Arrow",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_97.md",
+      "id": "bow_and_arrow",
+      "community": 0,
+      "norm_label": "bow and arrow"
+    },
+    {
+      "label": "Beetle Poison",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_97.md",
+      "id": "beetle_poison",
+      "community": 0,
+      "norm_label": "beetle poison"
+    },
+    {
+      "label": "Buchu Plant",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_96.md",
+      "id": "buchu_plant",
+      "community": 0,
+      "norm_label": "buchu plant"
+    },
+    {
+      "label": "Hoodia Plant",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_96.md",
+      "id": "hoodia_plant",
+      "community": 0,
+      "norm_label": "hoodia plant"
+    },
+    {
+      "label": "Ostrich Egg Shells",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_93.md",
+      "id": "ostrich_egg_shells",
+      "community": 0,
+      "norm_label": "ostrich egg shells"
+    },
+    {
+      "label": "Digging Sticks",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_91.md",
+      "id": "digging_sticks",
+      "community": 0,
+      "norm_label": "digging sticks"
+    },
+    {
+      "label": "Tracking",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_98.md",
+      "id": "tracking",
+      "community": 0,
+      "norm_label": "tracking"
+    },
+    {
+      "label": "Stamina",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_98.md",
+      "id": "stamina",
+      "community": 0,
+      "norm_label": "stamina"
+    },
+    {
+      "label": "Division of Labour",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_91.md",
+      "id": "division_of_labour",
+      "community": 0,
+      "norm_label": "division of labour"
+    },
+    {
+      "label": "Community Feast",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_98.md",
+      "id": "community_feast",
+      "community": 0,
+      "norm_label": "community feast"
+    },
+    {
+      "label": "Eastern Cape",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_103.md",
+      "id": "eastern_cape",
+      "community": 0,
+      "norm_label": "eastern cape"
+    },
+    {
+      "label": "South African Museum Cape Town",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_103.md",
+      "id": "south_african_museum",
+      "community": 0,
+      "norm_label": "south african museum cape town"
+    },
+    {
+      "label": "San Motto (!ke e: /xarra //ke)",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_103.md",
+      "id": "san_motto",
+      "community": 7,
+      "norm_label": "san motto (!ke e: /xarra //ke)"
+    },
+    {
+      "label": "Gemsbok",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/page_97.md",
+      "id": "gemsbok",
+      "community": 0,
+      "norm_label": "gemsbok"
+    },
+    {
+      "label": "Belle (Student)",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/patterns-and-issues.md",
+      "id": "belle_student",
+      "community": 0,
+      "norm_label": "belle (student)"
+    },
+    {
+      "label": "History Test (16 March 2026)",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/demarcation.md",
+      "id": "history_test_march_2026",
+      "community": 0,
+      "norm_label": "history test (16 march 2026)"
+    },
+    {
+      "label": "Platinum Social Sciences Grade 5",
+      "file_type": "document",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/history/summaries/demarcation.md",
+      "id": "platinum_social_sciences_grade_5",
+      "community": 0,
+      "norm_label": "platinum social sciences grade 5"
+    },
+    {
+      "label": "Later Stone Age",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/93.jpeg",
+      "id": "later_stone_age",
+      "community": 0,
+      "norm_label": "later stone age"
+    },
+    {
+      "label": "Stone Tools",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/93.jpeg",
+      "id": "stone_tools",
+      "community": 0,
+      "norm_label": "stone tools"
+    },
+    {
+      "label": "San Rock Art",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/101.jpeg",
+      "id": "san_rock_art",
+      "community": 8,
+      "norm_label": "san rock art"
+    },
+    {
+      "label": "Archaeology",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/101.jpeg",
+      "id": "archaeology",
+      "community": 8,
+      "norm_label": "archaeology"
+    },
+    {
+      "label": "Archaeologists",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/101.jpeg",
+      "id": "archaeologists",
+      "community": 8,
+      "norm_label": "archaeologists"
+    },
+    {
+      "label": "Kalahari Desert",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/92.jpeg",
+      "id": "kalahari_desert",
+      "community": 0,
+      "norm_label": "kalahari desert"
+    },
+    {
+      "label": "Water Storage",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/93.jpeg",
+      "id": "water_storage",
+      "community": 0,
+      "norm_label": "water storage"
+    },
+    {
+      "label": "Hunting",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/98.jpeg",
+      "id": "hunting",
+      "community": 0,
+      "norm_label": "hunting"
+    },
+    {
+      "label": "Poison (for arrows)",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/97.jpeg",
+      "id": "poison",
+      "community": 0,
+      "norm_label": "poison (for arrows)"
+    },
+    {
+      "label": "Medicine from Plants",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/96.jpeg",
+      "id": "medicine_from_plants",
+      "community": 0,
+      "norm_label": "medicine from plants"
+    },
+    {
+      "label": "Gathering (food collection)",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/91.jpeg",
+      "id": "gathering",
+      "community": 0,
+      "norm_label": "gathering (food collection)"
+    },
+    {
+      "label": "Secretary Bird",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/103.jpeg",
+      "id": "secretary_bird",
+      "community": 7,
+      "norm_label": "secretary bird"
+    },
+    {
+      "label": "Protea",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/103.jpeg",
+      "id": "protea",
+      "community": 7,
+      "norm_label": "protea"
+    },
+    {
+      "label": "Spear",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/103.jpeg",
+      "id": "spear",
+      "community": 7,
+      "norm_label": "spear"
+    },
+    {
+      "label": "Knobkerrie",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/103.jpeg",
+      "id": "knobkerrie",
+      "community": 7,
+      "norm_label": "knobkerrie"
+    },
+    {
+      "label": "Eland Blood (paint)",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/102.jpeg",
+      "id": "eland_blood",
+      "community": 8,
+      "norm_label": "eland blood (paint)"
+    },
+    {
+      "label": "Rock Painting Colors",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/101.jpeg",
+      "id": "rock_painting_colors",
+      "community": 8,
+      "norm_label": "rock painting colors"
+    },
+    {
+      "label": "Sharing Culture",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/95.jpeg",
+      "id": "sharing_culture",
+      "community": 0,
+      "norm_label": "sharing culture"
+    },
+    {
+      "label": "Equality (San society)",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/95.jpeg",
+      "id": "equality",
+      "community": 0,
+      "norm_label": "equality (san society)"
+    },
+    {
+      "label": "Cederberg",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/90.jpeg",
+      "id": "cederberg",
+      "community": 8,
+      "norm_label": "cederberg"
+    },
+    {
+      "label": "Khoikhoi Clay Pots",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/90.jpeg",
+      "id": "khoikhoi_clay_pots",
+      "community": 0,
+      "norm_label": "khoikhoi clay pots"
+    },
+    {
+      "label": "Test Demarcation (16 March)",
+      "file_type": "image",
+      "source_file": "/Users/domdacosta/Dev/belles-tutor/uploads/history/demarcation-16 march.jpeg",
+      "id": "test_demarcation_16_march",
+      "community": 0,
+      "norm_label": "test demarcation (16 march)"
+    }
+  ],
+  "links": [
+    {
+      "relation": "is_enrolled_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "grade_5",
+      "source": "belle",
+      "target": "grade_5"
+    },
+    {
+      "relation": "located_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "south_africa",
+      "source": "belle",
+      "target": "south_africa"
+    },
+    {
+      "relation": "follows",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "caps_curriculum",
+      "source": "belle",
+      "target": "caps_curriculum"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "agentic_tutor",
+      "source": "belle",
+      "target": "agentic_tutor"
+    },
+    {
+      "relation": "studies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "math_subject",
+      "source": "belle",
+      "target": "math_subject"
+    },
+    {
+      "relation": "studies_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "numbersense_17",
+      "source": "belle",
+      "target": "numbersense_17"
+    },
+    {
+      "relation": "learns_via",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "named_method_approach",
+      "source": "belle",
+      "target": "named_method_approach"
+    },
+    {
+      "relation": "has_challenge",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "working_memory_bottleneck",
+      "source": "belle",
+      "target": "working_memory_bottleneck"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "question_misreading",
+      "source": "belle",
+      "target": "question_misreading"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "non_linear_thinking",
+      "source": "belle",
+      "target": "non_linear_thinking"
+    },
+    {
+      "relation": "susceptible_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "confidence_spiral",
+      "source": "belle",
+      "target": "confidence_spiral"
+    },
+    {
+      "relation": "cannot_use",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "base_60_borrowing",
+      "source": "belle",
+      "target": "base_60_borrowing"
+    },
+    {
+      "relation": "strong_at",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "addition_strategies",
+      "source": "belle",
+      "target": "addition_strategies"
+    },
+    {
+      "relation": "strong_at",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "transformations",
+      "source": "belle",
+      "target": "transformations"
+    },
+    {
+      "relation": "strong_at",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "mode_statistics",
+      "source": "belle",
+      "target": "mode_statistics"
+    },
+    {
+      "relation": "improved_at",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "elapsed_time",
+      "source": "belle",
+      "target": "elapsed_time"
+    },
+    {
+      "relation": "studies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "grade_5_math",
+      "source": "belle",
+      "target": "grade_5_math"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_rounding_large",
+      "source": "belle",
+      "target": "error_rounding_large"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_ratio_calculation",
+      "source": "belle",
+      "target": "error_ratio_calculation"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_division_by_1500",
+      "source": "belle",
+      "target": "error_division_by_1500"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_elapsed_time",
+      "source": "belle",
+      "target": "error_elapsed_time"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_time_intervals",
+      "source": "belle",
+      "target": "error_time_intervals"
+    },
+    {
+      "relation": "has_weakness",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_borrowing_time",
+      "source": "belle",
+      "target": "error_borrowing_time"
+    },
+    {
+      "relation": "has_strength",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_skip_counting",
+      "source": "belle",
+      "target": "strength_skip_counting"
+    },
+    {
+      "relation": "has_strength",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_basic_rounding",
+      "source": "belle",
+      "target": "strength_basic_rounding"
+    },
+    {
+      "relation": "has_strength",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_reflections",
+      "source": "belle",
+      "target": "strength_reflections"
+    },
+    {
+      "relation": "enrolled_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "math_grade_5",
+      "source": "belle",
+      "target": "math_grade_5"
+    },
+    {
+      "relation": "enrolled_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "history_grade_5",
+      "source": "belle",
+      "target": "history_grade_5"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_rounding_4digit",
+      "source": "belle",
+      "target": "error_rounding_4digit"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_decimal_boundary",
+      "source": "belle",
+      "target": "error_decimal_boundary"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_ratio_proportion",
+      "source": "belle",
+      "target": "error_ratio_proportion"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_cost_tables_large",
+      "source": "belle",
+      "target": "error_cost_tables_large"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_fractions_division",
+      "source": "belle",
+      "target": "error_fractions_division"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_24h_conversion",
+      "source": "belle",
+      "target": "error_24h_conversion"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_division_word_problems",
+      "source": "belle",
+      "target": "error_division_word_problems"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_time_subtraction",
+      "source": "belle",
+      "target": "error_time_subtraction"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "error_addition_pairing",
+      "source": "belle",
+      "target": "error_addition_pairing"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_decimal_addition",
+      "source": "belle",
+      "target": "strength_decimal_addition"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_fractions_money",
+      "source": "belle",
+      "target": "strength_fractions_money"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_transformations",
+      "source": "belle",
+      "target": "strength_transformations"
+    },
+    {
+      "relation": "demonstrates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "strength_data_handling",
+      "source": "belle",
+      "target": "strength_data_handling"
+    },
+    {
+      "relation": "exhibits",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "working_style_no_written",
+      "source": "belle",
+      "target": "working_style_no_written"
+    },
+    {
+      "relation": "tracks_progress_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "patterns_and_issues",
+      "_tgt": "belle",
+      "source": "belle",
+      "target": "patterns_and_issues"
+    },
+    {
+      "relation": "preparing_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "test_march_10",
+      "source": "belle",
+      "target": "test_march_10"
+    },
+    {
+      "relation": "preparing_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle",
+      "_tgt": "test_march_16",
+      "source": "belle",
+      "target": "test_march_16"
+    },
+    {
+      "relation": "defines_standards_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "_src": "caps_curriculum",
+      "_tgt": "grade_5",
+      "source": "grade_5",
+      "target": "caps_curriculum"
+    },
+    {
+      "relation": "lived_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "south_africa",
+      "source": "south_africa",
+      "target": "san_people"
+    },
+    {
+      "relation": "lived_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "khoikhoi_people",
+      "_tgt": "south_africa",
+      "source": "south_africa",
+      "target": "khoikhoi_people"
+    },
+    {
+      "relation": "found_throughout",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "rock_art",
+      "_tgt": "south_africa",
+      "source": "south_africa",
+      "target": "rock_art"
+    },
+    {
+      "relation": "follows",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "history_grade_5",
+      "_tgt": "caps_curriculum",
+      "source": "caps_curriculum",
+      "target": "history_grade_5"
+    },
+    {
+      "relation": "used_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "socratic_method",
+      "_tgt": "agentic_tutor",
+      "source": "agentic_tutor",
+      "target": "socratic_method"
+    },
+    {
+      "relation": "covers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "number_pattern_strand",
+      "source": "numbersense_17",
+      "target": "number_pattern_strand"
+    },
+    {
+      "relation": "covers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "measurement_strand",
+      "source": "numbersense_17",
+      "target": "measurement_strand"
+    },
+    {
+      "relation": "covers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "space_shape_strand",
+      "source": "numbersense_17",
+      "target": "space_shape_strand"
+    },
+    {
+      "relation": "covers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "data_handling_strand",
+      "source": "numbersense_17",
+      "target": "data_handling_strand"
+    },
+    {
+      "relation": "uses_workbook",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "grade_5_math",
+      "_tgt": "numbersense_17",
+      "source": "numbersense_17",
+      "target": "grade_5_math"
+    },
+    {
+      "relation": "contains_strand",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "number_and_pattern",
+      "source": "numbersense_17",
+      "target": "number_and_pattern"
+    },
+    {
+      "relation": "contains_strand",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "measurement",
+      "source": "numbersense_17",
+      "target": "measurement"
+    },
+    {
+      "relation": "contains_strand",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "space_and_shape",
+      "source": "numbersense_17",
+      "target": "space_and_shape"
+    },
+    {
+      "relation": "contains_strand",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "data_handling",
+      "source": "numbersense_17",
+      "target": "data_handling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_07",
+      "source": "numbersense_17",
+      "target": "page_07"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_56",
+      "source": "numbersense_17",
+      "target": "page_56"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_22",
+      "source": "numbersense_17",
+      "target": "page_22"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_16",
+      "source": "numbersense_17",
+      "target": "page_16"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_06",
+      "source": "numbersense_17",
+      "target": "page_06"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_12",
+      "source": "numbersense_17",
+      "target": "page_12"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_26",
+      "source": "numbersense_17",
+      "target": "page_26"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_53",
+      "source": "numbersense_17",
+      "target": "page_53"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_02",
+      "source": "numbersense_17",
+      "target": "page_02"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_19",
+      "source": "numbersense_17",
+      "target": "page_19"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_48",
+      "source": "numbersense_17",
+      "target": "page_48"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_09",
+      "source": "numbersense_17",
+      "target": "page_09"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_39",
+      "source": "numbersense_17",
+      "target": "page_39"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_38",
+      "source": "numbersense_17",
+      "target": "page_38"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_18",
+      "source": "numbersense_17",
+      "target": "page_18"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_49",
+      "source": "numbersense_17",
+      "target": "page_49"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "numbersense_17",
+      "_tgt": "page_08",
+      "source": "numbersense_17",
+      "target": "page_08"
+    },
+    {
+      "relation": "covers_content_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_march_10",
+      "_tgt": "numbersense_17",
+      "source": "numbersense_17",
+      "target": "test_march_10"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "bunny_hops",
+      "source": "named_method_approach",
+      "target": "bunny_hops"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "pm_equals_plus",
+      "source": "named_method_approach",
+      "target": "pm_equals_plus"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "double_up",
+      "source": "named_method_approach",
+      "target": "double_up"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "round_and_fix",
+      "source": "named_method_approach",
+      "target": "round_and_fix"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "break_it_up",
+      "source": "named_method_approach",
+      "target": "break_it_up"
+    },
+    {
+      "relation": "uses_framing",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "named_method_approach",
+      "_tgt": "superpowers_framing",
+      "source": "named_method_approach",
+      "target": "superpowers_framing"
+    },
+    {
+      "relation": "applies_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bunny_hops",
+      "_tgt": "elapsed_time",
+      "source": "bunny_hops",
+      "target": "elapsed_time"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bunny_hops",
+      "_tgt": "timeline_method",
+      "source": "bunny_hops",
+      "target": "timeline_method"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bunny_hops",
+      "_tgt": "count_forward_approach",
+      "source": "bunny_hops",
+      "target": "count_forward_approach"
+    },
+    {
+      "relation": "formalizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day6_session",
+      "_tgt": "bunny_hops",
+      "source": "bunny_hops",
+      "target": "day6_session"
+    },
+    {
+      "relation": "notation_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "typed_shorthand",
+      "_tgt": "bunny_hops",
+      "source": "bunny_hops",
+      "target": "typed_shorthand"
+    },
+    {
+      "relation": "applies_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "pm_equals_plus",
+      "_tgt": "time_24_hour",
+      "source": "pm_equals_plus",
+      "target": "time_24_hour"
+    },
+    {
+      "relation": "applies_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "double_up",
+      "_tgt": "division_word_problems",
+      "source": "double_up",
+      "target": "division_word_problems"
+    },
+    {
+      "relation": "notation_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "typed_shorthand",
+      "_tgt": "double_up",
+      "source": "double_up",
+      "target": "typed_shorthand"
+    },
+    {
+      "relation": "is_type_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "round_and_fix",
+      "_tgt": "addition_strategies",
+      "source": "round_and_fix",
+      "target": "addition_strategies"
+    },
+    {
+      "relation": "notation_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "typed_shorthand",
+      "_tgt": "round_and_fix",
+      "source": "round_and_fix",
+      "target": "typed_shorthand"
+    },
+    {
+      "relation": "is_type_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "break_it_up",
+      "_tgt": "addition_strategies",
+      "source": "break_it_up",
+      "target": "addition_strategies"
+    },
+    {
+      "relation": "notation_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "typed_shorthand",
+      "_tgt": "break_it_up",
+      "source": "break_it_up",
+      "target": "typed_shorthand"
+    },
+    {
+      "relation": "focuses_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day2_session",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "day2_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement_strand",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "measurement_strand"
+    },
+    {
+      "relation": "applies_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "base_60_borrowing",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "base_60_borrowing"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "measurement"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_elapsed_time",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "error_elapsed_time"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_borrowing_time",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "error_borrowing_time"
+    },
+    {
+      "relation": "prerequisite_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "_src": "time_conversions",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "time_conversions"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_53",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "page_53"
+    },
+    {
+      "relation": "requires",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "_src": "elapsed_time",
+      "_tgt": "time_conversion_24h",
+      "source": "elapsed_time",
+      "target": "time_conversion_24h"
+    },
+    {
+      "relation": "supports",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "fractions_of_hour",
+      "_tgt": "elapsed_time",
+      "source": "elapsed_time",
+      "target": "fractions_of_hour"
+    },
+    {
+      "relation": "focuses_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day1_session",
+      "_tgt": "time_24_hour",
+      "source": "time_24_hour",
+      "target": "day1_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement_strand",
+      "_tgt": "time_24_hour",
+      "source": "time_24_hour",
+      "target": "measurement_strand"
+    },
+    {
+      "relation": "focuses_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day3_session",
+      "_tgt": "division_word_problems",
+      "source": "division_word_problems",
+      "target": "day3_session"
+    },
+    {
+      "relation": "mitigates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "written_working",
+      "_tgt": "working_memory_bottleneck",
+      "source": "working_memory_bottleneck",
+      "target": "written_working"
+    },
+    {
+      "relation": "mitigates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "what_given_do",
+      "_tgt": "question_misreading",
+      "source": "question_misreading",
+      "target": "what_given_do"
+    },
+    {
+      "relation": "mitigates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "skip_and_breathe",
+      "_tgt": "confidence_spiral",
+      "source": "confidence_spiral",
+      "target": "skip_and_breathe"
+    },
+    {
+      "relation": "helps_prevent",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "big_marks_first",
+      "_tgt": "confidence_spiral",
+      "source": "confidence_spiral",
+      "target": "big_marks_first"
+    },
+    {
+      "relation": "prepares_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "math_test_march_10",
+      "source": "study_plan_march_2026",
+      "target": "math_test_march_10"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day1_session",
+      "source": "study_plan_march_2026",
+      "target": "day1_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day2_session",
+      "source": "study_plan_march_2026",
+      "target": "day2_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day3_session",
+      "source": "study_plan_march_2026",
+      "target": "day3_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day6_session",
+      "source": "study_plan_march_2026",
+      "target": "day6_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day7_session",
+      "source": "study_plan_march_2026",
+      "target": "day7_session"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "study_plan_march_2026",
+      "_tgt": "day8_session",
+      "source": "study_plan_march_2026",
+      "target": "day8_session"
+    },
+    {
+      "relation": "prepares_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day8_session",
+      "_tgt": "math_test_march_10",
+      "source": "math_test_march_10",
+      "target": "day8_session"
+    },
+    {
+      "relation": "introduces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day2_session",
+      "_tgt": "timeline_method",
+      "source": "day2_session",
+      "target": "timeline_method"
+    },
+    {
+      "relation": "discovers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day6_session",
+      "_tgt": "count_forward_approach",
+      "source": "day6_session",
+      "target": "count_forward_approach"
+    },
+    {
+      "relation": "introduces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "day7_session",
+      "_tgt": "superpowers_framing",
+      "source": "day7_session",
+      "target": "superpowers_framing"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement_strand",
+      "_tgt": "fractions_of_hour",
+      "source": "fractions_of_hour",
+      "target": "measurement_strand"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_19",
+      "_tgt": "fractions_of_hour",
+      "source": "fractions_of_hour",
+      "target": "page_19"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_pattern_strand",
+      "_tgt": "addition_strategies",
+      "source": "number_pattern_strand",
+      "target": "addition_strategies"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "space_shape_strand",
+      "_tgt": "transformations",
+      "source": "space_shape_strand",
+      "target": "transformations"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling_strand",
+      "_tgt": "mode_statistics",
+      "source": "data_handling_strand",
+      "target": "mode_statistics"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_08",
+      "_tgt": "addition_strategies",
+      "source": "addition_strategies",
+      "target": "page_08"
+    },
+    {
+      "relation": "is_type_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "_src": "addition_pairing",
+      "_tgt": "addition_strategies",
+      "source": "addition_strategies",
+      "target": "addition_pairing"
+    },
+    {
+      "relation": "is_type_of",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "_src": "decimal_addition",
+      "_tgt": "addition_strategies",
+      "source": "addition_strategies",
+      "target": "decimal_addition"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_38",
+      "_tgt": "transformations",
+      "source": "transformations",
+      "target": "page_38"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_39",
+      "_tgt": "transformations",
+      "source": "transformations",
+      "target": "page_39"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "transformations",
+      "_tgt": "translation",
+      "source": "transformations",
+      "target": "translation"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "transformations",
+      "_tgt": "reflection",
+      "source": "transformations",
+      "target": "reflection"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "transformations",
+      "_tgt": "rotation",
+      "source": "transformations",
+      "target": "rotation"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_56",
+      "_tgt": "mode_statistics",
+      "source": "mode_statistics",
+      "target": "page_56"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "rounding_numbers",
+      "source": "number_and_pattern",
+      "target": "rounding_numbers"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "ratio_tables",
+      "source": "number_and_pattern",
+      "target": "ratio_tables"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "decimal_fractions",
+      "source": "number_and_pattern",
+      "target": "decimal_fractions"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "matchstick_patterns",
+      "source": "number_and_pattern",
+      "target": "matchstick_patterns"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "flow_diagrams",
+      "source": "number_and_pattern",
+      "target": "flow_diagrams"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "adding_decimals",
+      "source": "number_and_pattern",
+      "target": "adding_decimals"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "fractions_of_metre",
+      "source": "number_and_pattern",
+      "target": "fractions_of_metre"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "picture_frame_patterns",
+      "source": "number_and_pattern",
+      "target": "picture_frame_patterns"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "equivalent_fractions",
+      "source": "number_and_pattern",
+      "target": "equivalent_fractions"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "comparing_fractions",
+      "source": "number_and_pattern",
+      "target": "comparing_fractions"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "multiples",
+      "source": "number_and_pattern",
+      "target": "multiples"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "money_problems",
+      "source": "number_and_pattern",
+      "target": "money_problems"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "fractions_of_whole",
+      "source": "number_and_pattern",
+      "target": "fractions_of_whole"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "ratio_proportion",
+      "source": "number_and_pattern",
+      "target": "ratio_proportion"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "number_and_pattern",
+      "_tgt": "pairs_to_100",
+      "source": "number_and_pattern",
+      "target": "pairs_to_100"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement",
+      "_tgt": "time_conversions",
+      "source": "measurement",
+      "target": "time_conversions"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "measurement",
+      "_tgt": "fractions_of_minute",
+      "source": "measurement",
+      "target": "fractions_of_minute"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "space_and_shape",
+      "_tgt": "reflections",
+      "source": "space_and_shape",
+      "target": "reflections"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "space_and_shape",
+      "_tgt": "rotations",
+      "source": "space_and_shape",
+      "target": "rotations"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "space_and_shape",
+      "_tgt": "line_of_symmetry",
+      "source": "space_and_shape",
+      "target": "line_of_symmetry"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling",
+      "_tgt": "bar_graphs",
+      "source": "data_handling",
+      "target": "bar_graphs"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling",
+      "_tgt": "frequency_tables",
+      "source": "data_handling",
+      "target": "frequency_tables"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling",
+      "_tgt": "mode",
+      "source": "data_handling",
+      "target": "mode"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling",
+      "_tgt": "dot_plots",
+      "source": "data_handling",
+      "target": "dot_plots"
+    },
+    {
+      "relation": "includes_concept",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "data_handling",
+      "_tgt": "tally_marks",
+      "source": "data_handling",
+      "target": "tally_marks"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_rounding_large",
+      "_tgt": "rounding_numbers",
+      "source": "rounding_numbers",
+      "target": "error_rounding_large"
+    },
+    {
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "strength_basic_rounding",
+      "_tgt": "rounding_numbers",
+      "source": "rounding_numbers",
+      "target": "strength_basic_rounding"
+    },
+    {
+      "relation": "uses_strategy",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "ratio_tables",
+      "_tgt": "decomposition_strategy",
+      "source": "ratio_tables",
+      "target": "decomposition_strategy"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_07",
+      "_tgt": "ratio_tables",
+      "source": "ratio_tables",
+      "target": "page_07"
+    },
+    {
+      "relation": "builds_on",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "ratio_tables",
+      "_tgt": "multiples",
+      "source": "ratio_tables",
+      "target": "multiples"
+    },
+    {
+      "relation": "prerequisite_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "decimal_fractions",
+      "_tgt": "fractions_of_metre",
+      "source": "decimal_fractions",
+      "target": "fractions_of_metre"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_02",
+      "_tgt": "decimal_fractions",
+      "source": "decimal_fractions",
+      "target": "page_02"
+    },
+    {
+      "relation": "represented_by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "matchstick_patterns",
+      "_tgt": "flow_diagrams",
+      "source": "matchstick_patterns",
+      "target": "flow_diagrams"
+    },
+    {
+      "relation": "uses_strategy",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "adding_decimals",
+      "_tgt": "breaking_up_strategy",
+      "source": "adding_decimals",
+      "target": "breaking_up_strategy"
+    },
+    {
+      "relation": "uses_strategy",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "adding_decimals",
+      "_tgt": "rounding_compensating",
+      "source": "adding_decimals",
+      "target": "rounding_compensating"
+    },
+    {
+      "relation": "uses_strategy",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "adding_decimals",
+      "_tgt": "pairing_strategy",
+      "source": "adding_decimals",
+      "target": "pairing_strategy"
+    },
+    {
+      "relation": "uses_strategy",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "money_problems",
+      "_tgt": "rounding_compensating",
+      "source": "rounding_compensating",
+      "target": "money_problems"
+    },
+    {
+      "relation": "applies",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "picture_frame_patterns",
+      "_tgt": "multiples",
+      "source": "picture_frame_patterns",
+      "target": "multiples"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "equivalent_fractions",
+      "_tgt": "factors_of_12",
+      "source": "equivalent_fractions",
+      "target": "factors_of_12"
+    },
+    {
+      "relation": "prerequisite_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "fractions_of_whole",
+      "_tgt": "equivalent_fractions",
+      "source": "equivalent_fractions",
+      "target": "fractions_of_whole"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_division_by_1500",
+      "_tgt": "multiples",
+      "source": "multiples",
+      "target": "error_division_by_1500"
+    },
+    {
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "strength_skip_counting",
+      "_tgt": "multiples",
+      "source": "multiples",
+      "target": "strength_skip_counting"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_16",
+      "_tgt": "multiples",
+      "source": "multiples",
+      "target": "page_16"
+    },
+    {
+      "relation": "requires",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "reflections",
+      "_tgt": "line_of_symmetry",
+      "source": "reflections",
+      "target": "line_of_symmetry"
+    },
+    {
+      "relation": "distinct_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "rotations",
+      "_tgt": "reflections",
+      "source": "reflections",
+      "target": "rotations"
+    },
+    {
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "strength_reflections",
+      "_tgt": "reflections",
+      "source": "reflections",
+      "target": "strength_reflections"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_time_intervals",
+      "_tgt": "time_conversions",
+      "source": "time_conversions",
+      "target": "error_time_intervals"
+    },
+    {
+      "relation": "related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "time_conversions",
+      "_tgt": "fractions_of_minute",
+      "source": "time_conversions",
+      "target": "fractions_of_minute"
+    },
+    {
+      "relation": "visualizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bar_graphs",
+      "_tgt": "frequency_tables",
+      "source": "bar_graphs",
+      "target": "frequency_tables"
+    },
+    {
+      "relation": "derived_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "frequency_tables",
+      "_tgt": "tally_marks",
+      "source": "frequency_tables",
+      "target": "tally_marks"
+    },
+    {
+      "relation": "shows",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "dot_plots",
+      "_tgt": "mode",
+      "source": "mode",
+      "target": "dot_plots"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_56",
+      "_tgt": "dot_plots",
+      "source": "dot_plots",
+      "target": "page_56"
+    },
+    {
+      "relation": "affects",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_ratio_calculation",
+      "_tgt": "ratio_proportion",
+      "source": "ratio_proportion",
+      "target": "error_ratio_calculation"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_elapsed_time",
+      "_tgt": "page_53",
+      "source": "error_elapsed_time",
+      "target": "page_53"
+    },
+    {
+      "relation": "contributes_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "_src": "working_style_no_written",
+      "_tgt": "error_elapsed_time",
+      "source": "error_elapsed_time",
+      "target": "working_style_no_written"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_07",
+      "_tgt": "fractions_of_money",
+      "source": "page_07",
+      "target": "fractions_of_money"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_ratio_proportion",
+      "_tgt": "page_07",
+      "source": "page_07",
+      "target": "error_ratio_proportion"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_cost_tables_large",
+      "_tgt": "page_07",
+      "source": "page_07",
+      "target": "error_cost_tables_large"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_fractions_division",
+      "_tgt": "page_07",
+      "source": "page_07",
+      "target": "error_fractions_division"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_22",
+      "_tgt": "fractions_on_number_line",
+      "source": "page_22",
+      "target": "fractions_on_number_line"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_22",
+      "_tgt": "fractions_of_money",
+      "source": "page_22",
+      "target": "fractions_of_money"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_06",
+      "_tgt": "decimal_addition",
+      "source": "page_06",
+      "target": "decimal_addition"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_12",
+      "_tgt": "sharing_ratios",
+      "source": "page_12",
+      "target": "sharing_ratios"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_12",
+      "_tgt": "fractions_of_shapes",
+      "source": "page_12",
+      "target": "fractions_of_shapes"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_26",
+      "_tgt": "addition_pairing",
+      "source": "page_26",
+      "target": "addition_pairing"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_addition_pairing",
+      "_tgt": "page_26",
+      "source": "page_26",
+      "target": "error_addition_pairing"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_decimal_boundary",
+      "_tgt": "page_02",
+      "source": "page_02",
+      "target": "error_decimal_boundary"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_48",
+      "_tgt": "line_symmetry",
+      "source": "page_48",
+      "target": "line_symmetry"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_09",
+      "_tgt": "equal_sharing",
+      "source": "page_09",
+      "target": "equal_sharing"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_38",
+      "_tgt": "translation",
+      "source": "page_38",
+      "target": "translation"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_38",
+      "_tgt": "reflection",
+      "source": "page_38",
+      "target": "reflection"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_38",
+      "_tgt": "rotation",
+      "source": "page_38",
+      "target": "rotation"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_18",
+      "_tgt": "fractions_of_shapes",
+      "source": "page_18",
+      "target": "fractions_of_shapes"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_18",
+      "_tgt": "growing_patterns",
+      "source": "page_18",
+      "target": "growing_patterns"
+    },
+    {
+      "relation": "teaches",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "page_49",
+      "_tgt": "time_conversion_24h",
+      "source": "page_49",
+      "target": "time_conversion_24h"
+    },
+    {
+      "relation": "manifests_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "error_24h_conversion",
+      "_tgt": "page_49",
+      "source": "page_49",
+      "target": "error_24h_conversion"
+    },
+    {
+      "relation": "defines_scope_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "demarcation",
+      "_tgt": "test_march_10",
+      "source": "demarcation",
+      "target": "test_march_10"
+    },
+    {
+      "relation": "defines_context_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "history_claude",
+      "_tgt": "history_grade_5",
+      "source": "history_claude",
+      "target": "history_grade_5"
+    },
+    {
+      "relation": "prepares_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "history_study_plan",
+      "_tgt": "test_march_16",
+      "source": "history_study_plan",
+      "target": "test_march_16"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "history_study_plan",
+      "_tgt": "hunter_gatherers_quickcard",
+      "source": "history_study_plan",
+      "target": "hunter_gatherers_quickcard"
+    },
+    {
+      "relation": "summarizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "hunter_gatherers",
+      "source": "hunter_gatherers_quickcard",
+      "target": "hunter_gatherers"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "san_people",
+      "source": "hunter_gatherers_quickcard",
+      "target": "san_people"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "ethnography",
+      "source": "hunter_gatherers_quickcard",
+      "target": "ethnography"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "rock_art",
+      "source": "hunter_gatherers_quickcard",
+      "target": "rock_art"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "coat_of_arms_sa",
+      "source": "hunter_gatherers_quickcard",
+      "target": "coat_of_arms_sa"
+    },
+    {
+      "relation": "describes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "linton_panel",
+      "source": "hunter_gatherers_quickcard",
+      "target": "linton_panel"
+    },
+    {
+      "relation": "lists",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers_quickcard",
+      "_tgt": "medicinal_plants",
+      "source": "hunter_gatherers_quickcard",
+      "target": "medicinal_plants"
+    },
+    {
+      "relation": "related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "fractions_of_money",
+      "_tgt": "fractions_on_number_line",
+      "source": "fractions_of_money",
+      "target": "fractions_on_number_line"
+    },
+    {
+      "relation": "foundational_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "_src": "equal_sharing",
+      "_tgt": "sharing_ratios",
+      "source": "sharing_ratios",
+      "target": "equal_sharing"
+    },
+    {
+      "relation": "covers",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_march_16",
+      "_tgt": "hunter_gatherers",
+      "source": "hunter_gatherers",
+      "target": "test_march_16"
+    },
+    {
+      "relation": "were",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "hunter_gatherers",
+      "source": "hunter_gatherers",
+      "target": "san_people"
+    },
+    {
+      "relation": "subsistence_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers",
+      "_tgt": "hunting",
+      "source": "hunter_gatherers",
+      "target": "hunting"
+    },
+    {
+      "relation": "subsistence_method",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunter_gatherers",
+      "_tgt": "gathering",
+      "source": "hunter_gatherers",
+      "target": "gathering"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "hunter_gatherers",
+      "source": "hunter_gatherers",
+      "target": "test_demarcation_16_march"
+    },
+    {
+      "relation": "created",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "rock_art",
+      "source": "san_people",
+      "target": "rock_art"
+    },
+    {
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "medicinal_plants",
+      "source": "san_people",
+      "target": "medicinal_plants"
+    },
+    {
+      "relation": "honors",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "coat_of_arms_sa",
+      "_tgt": "san_people",
+      "source": "san_people",
+      "target": "coat_of_arms_sa"
+    },
+    {
+      "relation": "lived_during",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "stone_age",
+      "source": "san_people",
+      "target": "stone_age"
+    },
+    {
+      "relation": "practiced",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "nomadic_lifestyle",
+      "source": "san_people",
+      "target": "nomadic_lifestyle"
+    },
+    {
+      "relation": "used_to_hunt",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "bow_and_arrow",
+      "source": "san_people",
+      "target": "bow_and_arrow"
+    },
+    {
+      "relation": "used_as_medicine",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "buchu_plant",
+      "source": "san_people",
+      "target": "buchu_plant"
+    },
+    {
+      "relation": "used_for_hunting",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "hoodia_plant",
+      "source": "san_people",
+      "target": "hoodia_plant"
+    },
+    {
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "ostrich_egg_shells",
+      "source": "san_people",
+      "target": "ostrich_egg_shells"
+    },
+    {
+      "relation": "practiced",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "division_of_labour",
+      "source": "san_people",
+      "target": "division_of_labour"
+    },
+    {
+      "relation": "celebrated_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "community_feast",
+      "source": "san_people",
+      "target": "community_feast"
+    },
+    {
+      "relation": "written_in_language_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_motto",
+      "_tgt": "san_people",
+      "source": "san_people",
+      "target": "san_motto"
+    },
+    {
+      "relation": "method_to_study",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "ethnography",
+      "_tgt": "san_people",
+      "source": "san_people",
+      "target": "ethnography"
+    },
+    {
+      "relation": "lived_during",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "later_stone_age",
+      "source": "san_people",
+      "target": "later_stone_age"
+    },
+    {
+      "relation": "inhabited",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "kalahari_desert",
+      "source": "san_people",
+      "target": "kalahari_desert"
+    },
+    {
+      "relation": "made",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "stone_tools",
+      "source": "san_people",
+      "target": "stone_tools"
+    },
+    {
+      "relation": "created",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "san_rock_art",
+      "source": "san_people",
+      "target": "san_rock_art"
+    },
+    {
+      "relation": "practiced",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "sharing_culture",
+      "source": "san_people",
+      "target": "sharing_culture"
+    },
+    {
+      "relation": "valued",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "equality",
+      "source": "san_people",
+      "target": "equality"
+    },
+    {
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_people",
+      "_tgt": "medicine_from_plants",
+      "source": "san_people",
+      "target": "medicine_from_plants"
+    },
+    {
+      "relation": "related_indigenous_group",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "_src": "san_people",
+      "_tgt": "khoikhoi_people",
+      "source": "san_people",
+      "target": "khoikhoi_people"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "san_people",
+      "source": "san_people",
+      "target": "test_demarcation_16_march"
+    },
+    {
+      "relation": "knowledge_gap",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "ethnography",
+      "source": "ethnography",
+      "target": "belle_student"
+    },
+    {
+      "relation": "is_example_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "linton_panel",
+      "_tgt": "rock_art",
+      "source": "rock_art",
+      "target": "linton_panel"
+    },
+    {
+      "relation": "studies",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "archaeologist",
+      "_tgt": "rock_art",
+      "source": "rock_art",
+      "target": "archaeologist"
+    },
+    {
+      "relation": "found_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "linton_panel",
+      "_tgt": "eastern_cape",
+      "source": "linton_panel",
+      "target": "eastern_cape"
+    },
+    {
+      "relation": "displayed_at",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "linton_panel",
+      "_tgt": "south_african_museum",
+      "source": "linton_panel",
+      "target": "south_african_museum"
+    },
+    {
+      "relation": "incorporates_imagery_from",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "linton_panel",
+      "source": "linton_panel",
+      "target": "south_african_coat_of_arms"
+    },
+    {
+      "relation": "knowledge_gap",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "linton_panel",
+      "source": "linton_panel",
+      "target": "belle_student"
+    },
+    {
+      "relation": "example_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "linton_panel",
+      "_tgt": "san_rock_art",
+      "source": "linton_panel",
+      "target": "san_rock_art"
+    },
+    {
+      "relation": "made",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "khoikhoi_people",
+      "_tgt": "khoikhoi_clay_pots",
+      "source": "khoikhoi_people",
+      "target": "khoikhoi_clay_pots"
+    },
+    {
+      "relation": "strong_knowledge",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "nomadic_lifestyle",
+      "source": "nomadic_lifestyle",
+      "target": "belle_student"
+    },
+    {
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "san_motto",
+      "source": "south_african_coat_of_arms",
+      "target": "san_motto"
+    },
+    {
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "secretary_bird",
+      "source": "south_african_coat_of_arms",
+      "target": "secretary_bird"
+    },
+    {
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "protea",
+      "source": "south_african_coat_of_arms",
+      "target": "protea"
+    },
+    {
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "spear",
+      "source": "south_african_coat_of_arms",
+      "target": "spear"
+    },
+    {
+      "relation": "features",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "south_african_coat_of_arms",
+      "_tgt": "knobkerrie",
+      "source": "south_african_coat_of_arms",
+      "target": "knobkerrie"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "south_african_coat_of_arms",
+      "source": "south_african_coat_of_arms",
+      "target": "test_demarcation_16_march"
+    },
+    {
+      "relation": "coated_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bow_and_arrow",
+      "_tgt": "beetle_poison",
+      "source": "bow_and_arrow",
+      "target": "beetle_poison"
+    },
+    {
+      "relation": "provided_materials_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "gemsbok",
+      "_tgt": "bow_and_arrow",
+      "source": "bow_and_arrow",
+      "target": "gemsbok"
+    },
+    {
+      "relation": "tool_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "bow_and_arrow",
+      "_tgt": "hunting",
+      "source": "bow_and_arrow",
+      "target": "hunting"
+    },
+    {
+      "relation": "applied_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "poison",
+      "_tgt": "bow_and_arrow",
+      "source": "bow_and_arrow",
+      "target": "poison"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "bow_and_arrow",
+      "source": "bow_and_arrow",
+      "target": "test_demarcation_16_march"
+    },
+    {
+      "relation": "knowledge_gap",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "beetle_poison",
+      "source": "beetle_poison",
+      "target": "belle_student"
+    },
+    {
+      "relation": "source_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "beetle_poison",
+      "_tgt": "poison",
+      "source": "beetle_poison",
+      "target": "poison"
+    },
+    {
+      "relation": "knowledge_gap",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "buchu_plant",
+      "source": "buchu_plant",
+      "target": "belle_student"
+    },
+    {
+      "relation": "example_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "buchu_plant",
+      "_tgt": "medicine_from_plants",
+      "source": "buchu_plant",
+      "target": "medicine_from_plants"
+    },
+    {
+      "relation": "knowledge_gap",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "hoodia_plant",
+      "source": "hoodia_plant",
+      "target": "belle_student"
+    },
+    {
+      "relation": "example_of",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hoodia_plant",
+      "_tgt": "medicine_from_plants",
+      "source": "hoodia_plant",
+      "target": "medicine_from_plants"
+    },
+    {
+      "relation": "suppressed_hunger_during",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hoodia_plant",
+      "_tgt": "hunting",
+      "source": "hoodia_plant",
+      "target": "hunting"
+    },
+    {
+      "relation": "strong_knowledge",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "ostrich_egg_shells",
+      "source": "ostrich_egg_shells",
+      "target": "belle_student"
+    },
+    {
+      "relation": "used_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "ostrich_egg_shells",
+      "_tgt": "water_storage",
+      "source": "ostrich_egg_shells",
+      "target": "water_storage"
+    },
+    {
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "gathering",
+      "_tgt": "digging_sticks",
+      "source": "digging_sticks",
+      "target": "gathering"
+    },
+    {
+      "relation": "required_skill",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunting",
+      "_tgt": "tracking",
+      "source": "tracking",
+      "target": "hunting"
+    },
+    {
+      "relation": "required_skill",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "hunting",
+      "_tgt": "stamina",
+      "source": "stamina",
+      "target": "hunting"
+    },
+    {
+      "relation": "strong_knowledge",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "stamina",
+      "source": "stamina",
+      "target": "belle_student"
+    },
+    {
+      "relation": "strong_knowledge",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "division_of_labour",
+      "source": "division_of_labour",
+      "target": "belle_student"
+    },
+    {
+      "relation": "preparing_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "belle_student",
+      "_tgt": "history_test_march_2026",
+      "source": "belle_student",
+      "target": "history_test_march_2026"
+    },
+    {
+      "relation": "based_on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "history_test_march_2026",
+      "_tgt": "platinum_social_sciences_grade_5",
+      "source": "history_test_march_2026",
+      "target": "platinum_social_sciences_grade_5"
+    },
+    {
+      "relation": "used",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_rock_art",
+      "_tgt": "rock_painting_colors",
+      "source": "san_rock_art",
+      "target": "rock_painting_colors"
+    },
+    {
+      "relation": "used_to_create",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "eland_blood",
+      "_tgt": "san_rock_art",
+      "source": "san_rock_art",
+      "target": "eland_blood"
+    },
+    {
+      "relation": "study",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "archaeologists",
+      "_tgt": "san_rock_art",
+      "source": "san_rock_art",
+      "target": "archaeologists"
+    },
+    {
+      "relation": "found_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "san_rock_art",
+      "_tgt": "cederberg",
+      "source": "san_rock_art",
+      "target": "cederberg"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "san_rock_art",
+      "source": "san_rock_art",
+      "target": "test_demarcation_16_march"
+    },
+    {
+      "relation": "practice",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "archaeologists",
+      "_tgt": "archaeology",
+      "source": "archaeology",
+      "target": "archaeologists"
+    },
+    {
+      "relation": "covers_topic",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "_src": "test_demarcation_16_march",
+      "_tgt": "medicine_from_plants",
+      "source": "medicine_from_plants",
+      "target": "test_demarcation_16_march"
+    }
+  ],
+  "hyperedges": []
+}

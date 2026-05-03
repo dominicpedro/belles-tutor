@@ -1,1 +1,0 @@
-../.shared/.claude/rules/tutoring.md

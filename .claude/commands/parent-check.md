@@ -1,1 +1,0 @@
-../.shared/.claude/commands/parent-check.md
